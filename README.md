@@ -1,35 +1,77 @@
-# Instructions  
+# Practice Problem 3.6
 
-# Practice Problem 2.1
+1.
 
-1. The variable _num_ holds an integer from user input  Write a conditional statement that does the following:
+Output a random integer from 50-100.
 
-- If num is even (divisible by 2), print "__ is even"
-- If num is odd, print "__ is odd"
+Repeat 5 times.
 
-Examples:
-
-```
-In: 23
-23 is odd
-```
-```
-In: 36
-36 is even
-```
-
-2. The variable _name_ holds a String from user input.  Write a conditional statement that does the following:
-
-- If name is equal to "Kalisz", print "teacher"
-- For any other input, print "student"
-
-Examples:
+Sample Input/Output:
 
 ```
-In: Kalisz
-teacher
+51
 ```
+
 ```
-In: Faa
-student
+59
+```
+
+```
+99
+```
+
+```
+100
+```
+
+```
+62
+```
+
+2.
+
+Output a random float from 40-70, excluding 50-60.
+
+Sample Input/Output:
+
+```
+48
+```
+
+3.
+
+Ask the user for an integer.  
+
+Output a random integer from 0-100.  
+
+Repeat until the user enters 0.
+
+Sample Input/Output:
+
+```
+In: 5
+```
+
+```
+54
+```
+
+```
+In: -3
+```
+
+```
+34
+```
+
+```
+In: 10000
+```
+
+```
+5
+```
+
+```
+In: 0
 ```
